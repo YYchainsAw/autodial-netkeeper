@@ -258,8 +258,8 @@ def main():
         pass
 
     CONNECTION_NAME = "Netkeeper"
-    USERNAME = "202426704040@jxsd"
-    PASSWORD = "704040"
+    USERNAME = ""
+    PASSWORD = ""
 
     dialer = AutoDialer(CONNECTION_NAME, USERNAME, PASSWORD)
     dialer.run()
